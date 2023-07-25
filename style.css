@@ -1,0 +1,37 @@
+.indexCSS{
+    background-color:mediumturquoise;
+}
+
+img {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5%;
+    box-shadow: gray;
+}
+
+p {
+    font-size: 50pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align:center;
+}
+
+h2 {
+    text-align:center;
+}
+
+a {
+    text-align:center;
+    display: block;
+}
+
+h2{
+    margin:20px
+}
+#container{
+    margin:auto;
+}
