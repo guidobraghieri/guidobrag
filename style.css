@@ -1,5 +1,5 @@
 .indexCSS{
-    background-color:mediumturquoise;
+    background-color: turquoise;
 }
 
 img {
@@ -12,21 +12,25 @@ img {
 
 p {
     font-size: 50pt;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: fantasy, Tahoma, sans-serif;
     text-align: center;
 }
 
 h1 {
     text-align:center;
+    font-family: fantasy;
+    
 }
 
 h2 {
     text-align:center;
+    font-family: fantasy;
 }
 
-a {
+.interview {
     text-align:center;
     display: block;
+    color: white
 }
 
 h2{
@@ -34,4 +38,42 @@ h2{
 }
 #container{
     margin:auto;
+}
+
+.h1{
+    background-color: white;
+}
+
+.topnav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.topnav a{
+    float: left;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.topnav a:hover{
+    background-color: black;
+    color: white;
+}
+
+.h2{
+    background-color: white;
+}
+
+.ths{
+    background-color: white;
+}
+
+.thli {
+    background-color: white;
+}
+
+.directorinter{
+    background-color: white;
 }
