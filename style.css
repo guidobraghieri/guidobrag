@@ -1,5 +1,5 @@
 .indexCSS{
-    background-color: turquoise;
+    background-color: grey;
 }
 
 img {
@@ -47,6 +47,7 @@ h2{
 .topnav {
     background-color: rgb(255, 255, 255);
     overflow: hidden;
+    width: 20em;
 }
 
 .topnav a{
@@ -55,10 +56,12 @@ h2{
     padding: 14px 16px;
     text-decoration: none;
     font-size: 30px;
+
+
 }
 
 .topnav a:hover{
-    background-color: black;
+    background-color:black;
     color: white;
 }
 
@@ -76,4 +79,30 @@ h2{
 
 .directorinter{
     background-color: white;
+}
+
+.aboutinfo{
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    text-align: left;
+    background-color: white;
+}
+
+.interview2{
+    background-color:white;
+}
+
+.linkthli {
+    text-align: center;
+    display: block;
+    color: white;
+}
+
+.seveninter {
+    background-color: white;
+}
+
+.aboutinfo2 {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
 }
